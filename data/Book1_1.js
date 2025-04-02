@@ -1,0 +1,1 @@
+var json_Book1_1 = {"type":"FeatureCollection","name":"Book1_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"field_1":"true","X":42.68827,"Y":-73.82183},"geometry":{"type":"Point","coordinates":[-73.82183,42.68827]}}]}
